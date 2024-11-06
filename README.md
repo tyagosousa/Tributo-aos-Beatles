@@ -1,4 +1,4 @@
-Este é um projeto que, movido ao amor pela boa música e tecnologia, foi desenvolvido para fins didáticos com HTML e CSS envolvendo estruturas básicas como `div`, `a`, `h1` e estilizações simples.
+Um projeto movido pela paixão a boa música e à tecnologia! 
 
 **PRINTS DE TELAS**
 ![image](https://github.com/user-attachments/assets/0b6d2e72-811c-430b-ac66-ee203e6e47e7)
